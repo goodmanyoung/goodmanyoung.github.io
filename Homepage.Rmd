@@ -1,0 +1,15 @@
+---
+title: "Home"
+author: "goodmanyoung"
+date: "2022-10-18"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Welcome
+I'm still figuring out how to do this. Let's see how it goes.
+
+
